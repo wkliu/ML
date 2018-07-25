@@ -1,0 +1,1 @@
+jupyter nbconvert Linear_regression_algorithm.ipynb --to slides --post serve

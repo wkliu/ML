@@ -1,0 +1,1 @@
+jupyter nbconvert knn_algorithm.ipynb --to slides --post serve

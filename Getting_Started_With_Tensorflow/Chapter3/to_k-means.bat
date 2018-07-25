@@ -1,0 +1,1 @@
+jupyter nbconvert k-means.ipynb --to slides --post serve
